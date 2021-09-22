@@ -4,7 +4,7 @@ public class CityEntity {
     private int cid;
     private String cname;
     private ProvinceEntity cproid;
-
+//第二次
     public CityEntity(String name, String cproid) {
     }
 
